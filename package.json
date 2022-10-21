@@ -1,0 +1,12 @@
+{
+  "name": "note-app-edrine-hagosojos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "stop": "node app"
+  },
+  "author": "Edrine B. Hagosojos",
+  "license": "ISC"
+}
